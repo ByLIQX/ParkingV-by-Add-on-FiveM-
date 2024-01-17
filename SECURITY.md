@@ -7,10 +7,10 @@ currently being supported with security updates.
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 5.1.x   | :By LIQX: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :By LIQX: |
-| < 4.0   | :x:                |
+| 1.0.0.x   | :By LIQX: |
+| 1.0.1.x   | :x:                |
+|  1.0.2.x   | :x: |
+| < 1.0.2.x   | :x:                |
 
 ## Reporting a Vulnerability
 
