@@ -9,8 +9,8 @@ currently being supported with security updates.
 | ------- | ------------------ |
 | 1.0.0.x   | :By LIQX: |
 | 1.0.1.x   | :x:                |
-|  1.0.2.x   | :x: |
-| < 1.0.2.x   | :x:                |
+| 1.0.2.x   | :x: |
+| 1.0.2.x   | :x:                |
 
 ## Reporting a Vulnerability
 
